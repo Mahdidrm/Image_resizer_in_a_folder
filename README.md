@@ -1,4 +1,4 @@
-- This code is very simple and fast. you just need to add the path to your images folder and give the size of the output images!
+- This code is very simple and fast. you just need to add the path of your folder of images and then give the size of the output images!
 
 ```
 import PIL
